@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1660"
+   name=""
+   committed-date="2010-06-23T04:20:46.933939Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib/third-party/mingw32/include"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   name="vorbis"
+   kind="dir"/>
+<entry
+   name="ogg"
+   kind="dir"/>
+</wc-entries>

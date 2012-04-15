@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1722"
+   name=""
+   committed-date="2010-10-31T19:54:03.093971Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build/include"
+   last-author="helixhorned"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1624"
+   name="pragmas.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-04-26T04:55:42.351113Z"
+   checksum="17bbb1254f301031f79eba30f7c410a0"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:40.000000Z"/>
+<entry
+   committed-rev="1664"
+   name="dynamicgtk.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-07-02T01:26:56.673726Z"
+   checksum="7e1c555cf8107bf4389537dab5c23687"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1593"
+   name="osxbits.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-01-23T22:12:02.766363Z"
+   checksum="dcfa9dd1f6404350583c5cc38446c79f"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1278"
+   name="hightile.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-03-28T12:14:37.181655Z"
+   checksum="1fceccc989aa9262c9684484d2ead8e9"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1719"
+   name="build.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-10-28T20:17:22.987508Z"
+   checksum="f25b596e2b669321c069d848181434e6"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="854"
+   name="startwin.editor.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="6fed702b696e5c6d40ea06380dc707ab"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1205"
+   name="kplib.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-01-09T09:29:17.505954Z"
+   checksum="ca4522a2d6bf278c63e5597ef00790c3"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1692"
+   name="mutex.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-08-12T13:38:37.297147Z"
+   checksum="d1e856a31c04f0fdfd07aa4dc1aca2d7"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1625"
+   name="dxdidf.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-05-02T23:27:30.351380Z"
+   checksum="f1d1a7642a061af153ce840fe639ad8c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1399"
+   name="sdlayer.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-06-05T20:09:13.034627Z"
+   checksum="3756d9f9d478052f86c07e6a08d68857"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="baselayer.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="2874fad4120fee5352322a49475a0af6"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1205"
+   name="gtkbits.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-01-09T09:29:17.505954Z"
+   checksum="27ed541b0aa90c40ff0e2a6398e63004"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1642"
+   name="rawinput.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-05-16T22:53:08.462328Z"
+   checksum="4a7c989c743b3d3a086f50d21c8a138f"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="996"
+   name="sdl_inc.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="c53e4b17cdd5515fa59d4f7bb3ebfa2d"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1567"
+   name="crc32.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-12-14T05:23:29.877232Z"
+   checksum="dd3d403dd7507985616181f0c64f553b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1582"
+   name="quicklz.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-01-05T21:53:14.307425Z"
+   checksum="551ca58356eea52548753dadc42c3d0b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1456"
+   name="glbuild.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-07-11T22:20:15.146931Z"
+   checksum="2921591603e6b0671f8393b236005f6c"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   name="msvc"
+   kind="dir"/>
+<entry
+   committed-rev="584"
+   name="md4.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2007-12-12T17:42:14.765459Z"
+   checksum="70de2c05ceb6c4dc090e5188667af771"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="polymost.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="4806c1b5d6ca96be305ea2a8046dd605"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1625"
+   name="malloc.c.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-05-02T23:27:30.351380Z"
+   checksum="36dbbe7aa625fb788637ae32b84732c0"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1712"
+   name="cache1d.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-10-17T14:49:39.642879Z"
+   checksum="5f23092cd996208951f9b9d90a4c94e6"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="winlayer.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="982242a20076848449f78f66845e0704"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1692"
+   name="prlights.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-08-12T13:38:37.297147Z"
+   checksum="ea6b637c14fa288c2575f7eac21cd0c4"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1643"
+   name="nedmalloc.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-05-18T00:30:30.902337Z"
+   checksum="f80ecf6312607317bb5cb642d507cb4a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:42.000000Z"/>
+<entry
+   committed-rev="1625"
+   name="scancodes.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-05-02T23:27:30.351380Z"
+   checksum="1f9e0175685b16658dbaee693f51a628"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:42.000000Z"/>
+<entry
+   committed-rev="1695"
+   name="scriptfile.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-08-14T21:32:28.125416Z"
+   checksum="dc3160e211b66308b567e7edcf0dcdd1"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:42.000000Z"/>
+<entry
+   committed-rev="854"
+   name="osxmain.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="6f2f2d37cdd7c4b27d3fa991ff3f641b"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:42.000000Z"/>
+<entry
+   committed-rev="1454"
+   name="a.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-07-09T02:29:48.368597Z"
+   checksum="77267bab96ae33dcd1c89bd26622ce27"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:42.000000Z"/>
+<entry
+   committed-rev="1705"
+   name="compat.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-09-01T02:35:36.723121Z"
+   checksum="bbe5e06087063719432323de3ed8bcc1"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="736"
+   name="glext.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2008-05-22T10:08:17.638541Z"
+   checksum="42af955bb720fbada8649f33b02b180b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="1661"
+   name="osd.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-06-25T23:01:54.236974Z"
+   checksum="7ddedcdd3e9cf1aabd7eaa259b18b31f"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="1710"
+   name="editor.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-09-30T23:05:40.711767Z"
+   checksum="c93b5ffd7b58149d5d48b148bce36612"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="1205"
+   name="lzwnew.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-01-09T09:29:17.505954Z"
+   checksum="ee97c182be56ebc1efc80f88732c9b22"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="1692"
+   name="m32script.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-08-12T13:38:37.297147Z"
+   checksum="4619cc8b70db61a6afd7aa10d94e6fcb"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="1676"
+   name="polymer.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2010-07-26T22:36:45.588522Z"
+   checksum="5c59167eecb81a4a9d925d7801b2dbc1"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="1488"
+   name="mdsprite.h"
+   text-time="2010-11-08T09:43:43.000000Z"
+   committed-date="2009-08-09T05:32:17.855841Z"
+   checksum="7e10536b28daa751a7a3f3c405a41a46"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+</wc-entries>

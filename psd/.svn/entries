@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1653"
+   name=""
+   committed-date="2010-05-25T11:00:42.139696Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/psd"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1653"
+   name="game2.psd"
+   text-time="2010-11-08T09:43:38.000000Z"
+   committed-date="2010-05-25T11:00:42.139696Z"
+   checksum="f8c9d51cf549c60c0ffade04b2722e39"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:29.000000Z"/>
+<entry
+   committed-rev="1653"
+   name="game3.psd"
+   text-time="2010-11-08T09:43:38.000000Z"
+   committed-date="2010-05-25T11:00:42.139696Z"
+   checksum="b79ab33448acc59ab76bea5193a69023"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:38.000000Z"/>
+</wc-entries>

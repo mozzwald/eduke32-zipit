@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1658"
+   name=""
+   committed-date="2010-06-22T21:50:01.191101Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/enet/include/enet"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1658"
+   name="enet.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="561f2d2afec496e70735c18e297f1fce"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1640"
+   name="list.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-05-15T09:07:49.798891Z"
+   checksum="2de3ba8e11471a1f3fdfdd77fdf46cbd"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1552"
+   name="time.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2009-12-05T09:22:43.062202Z"
+   checksum="df24d61ec2d9c4ead96fc2f3bb8792b6"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="callbacks.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="66a53739632b8d38a93f117cc941a977"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="protocol.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="ef84aa1bbd74fd9b34776ad785f0c499"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="win32.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="2eadb494624a7663762fc17d56f3b735"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1552"
+   name="unix.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2009-12-05T09:22:43.062202Z"
+   checksum="a8d6ed987e52f267f561612b368b1200"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1552"
+   name="utility.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2009-12-05T09:22:43.062202Z"
+   checksum="0862ee40c77629e218bce8a99fad8282"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1552"
+   name="types.h"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2009-12-05T09:22:43.062202Z"
+   checksum="282839a96b75ab1620c020bde496ee7e"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+</wc-entries>

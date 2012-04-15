@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1724"
+   name=""
+   committed-date="2010-11-08T04:56:10.981182Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build/src"
+   last-author="plagman"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1722"
+   name="build.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="1e208136e4084c93b6e86ee92b150f96"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="1425"
+   name="startwin.editor.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-06-09T06:19:58.133381Z"
+   checksum="3f541fb861249bdcf46e503831b082c9"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="1657"
+   name="kplib.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-06-07T09:03:16.538565Z"
+   checksum="d7a0933a31d26ca9f9eb65742d988f4c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="1625"
+   name="mutex.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-05-02T23:27:30.351380Z"
+   checksum="14ba1dedc0802f05042e69364a66ffbe"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="1716"
+   name="sdlayer.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-10-21T02:20:40.255870Z"
+   checksum="03ce22dea85bc634f640b732c96840e6"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="584"
+   name="smalltextfont.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2007-12-12T17:42:14.765459Z"
+   checksum="f08ff1d724ce9300caf9f803f91da5e3"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="194"
+   name="osxbits.m"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2006-07-01T01:40:18.057571Z"
+   checksum="f06736156e060ab0ac76a661293e9a50"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="1697"
+   name="config.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-08-17T20:00:44.791136Z"
+   checksum="aaa3c5efc1267e6b93bd9c9535d738b6"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:45.000000Z"/>
+<entry
+   committed-rev="1724"
+   name="engine.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-11-08T04:56:10.981182Z"
+   checksum="49c82090344288166a606c5ccbae7cf7"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1206"
+   name="gtkbits.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-01-10T07:38:50.929875Z"
+   checksum="40063458bcd86887b9f5003d6c5d1505"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1712"
+   name="baselayer.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-10-17T14:49:39.642879Z"
+   checksum="a0e6a59857fcf7764573a3f600df55b8"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1657"
+   name="rawinput.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-06-07T09:03:16.538565Z"
+   checksum="1d2b3cf4556d8e5b78ee77581bbbd491"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1699"
+   name="engine_priv.h"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-08-21T07:39:12.871258Z"
+   checksum="65fefc44762365cb52eac810cdb7c1b6"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1440"
+   name="textfont.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-06-24T08:20:10.939310Z"
+   checksum="7b2d7eb81cb0fa89b2917d6ffb774371"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1567"
+   name="crc32.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-12-14T05:23:29.877232Z"
+   checksum="9cbdb151d60fdf0ded32bf72728b390b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1552"
+   name="quicklz.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-12-05T09:22:43.062202Z"
+   checksum="792f540e8b5991f0c94ba776a6e39da6"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1642"
+   name="glbuild.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-05-16T22:53:08.462328Z"
+   checksum="54928902daa009c59768f9c3f28687d4"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1425"
+   name="md4.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-06-09T06:19:58.133381Z"
+   checksum="31e389c5e1ec6d985340165f5dabf2da"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:47.000000Z"/>
+<entry
+   committed-rev="1712"
+   name="polymost.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-10-17T14:49:39.642879Z"
+   checksum="7cc0acedce82f501469b9fa1f41ade09"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:48.000000Z"/>
+<entry
+   committed-rev="1712"
+   name="cache1d.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-10-17T14:49:39.642879Z"
+   checksum="032a335d280e9e9fc73e4c4919ad4ca9"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:48.000000Z"/>
+<entry
+   committed-rev="1660"
+   name="startgtk.editor.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-06-23T04:20:46.933939Z"
+   checksum="164d68b7bb8348760fb3194ee76e2034"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:48.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="winlayer.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="e94a259ed75d18e5dd13b2d1269720a4"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:48.000000Z"/>
+<entry
+   committed-rev="1625"
+   name="a.masm"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-05-02T23:27:30.351380Z"
+   checksum="1d44e55c7be63813c73e96d830f897ea"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:48.000000Z"/>
+<entry
+   committed-rev="1643"
+   name="nedmalloc.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-05-18T00:30:30.902337Z"
+   checksum="432004201a06e917b6e0cac45fc2a8a7"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="1539"
+   name="a-c.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-11-04T08:11:21.868764Z"
+   checksum="6ea30ad81cf0bddb13b22f2ac54e66db"
+   last-author="qbix79"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="1695"
+   name="scriptfile.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-08-14T21:32:28.125416Z"
+   checksum="a4b2c3b384f772ed93905959f2a612be"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="854"
+   name="a.wasm"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="cc406847e1bf106d3dedf4bdaba45030"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   name="misc"
+   kind="dir"/>
+<entry
+   name="tmp"
+   kind="dir"/>
+<entry
+   committed-rev="1677"
+   name="defs.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="f1d7df98d2ccceec54ea6613025ae184"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="compat.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="582356122c4a61a76d56bf05594e3b1b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="854"
+   name="StartupWinController.editor.m"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="75717e33efbdd2d757c68f52cbbe0a92"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="osd.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="26031b771c15083b88558783ff4ff983"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="1527"
+   name="lzwnew.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-10-07T06:47:35.350075Z"
+   checksum="ad28df2afb916ff689832ad360af5391"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="1710"
+   name="polymer.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-09-30T23:05:40.711767Z"
+   checksum="86db3297ee45be38768b40af6e51c555"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:50.000000Z"/>
+<entry
+   committed-rev="1699"
+   name="mdsprite.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-08-21T07:39:12.871258Z"
+   checksum="1b9a17b3db94be47acd38db870267f4c"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:50.000000Z"/>
+<entry
+   committed-rev="1454"
+   name="pragmas.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-07-09T02:29:48.368597Z"
+   checksum="939519f642b659320258504053768867"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:50.000000Z"/>
+<entry
+   committed-rev="1664"
+   name="dynamicgtk.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-07-02T01:26:56.673726Z"
+   checksum="67837ce921d52f340bb49724550e45d7"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:50.000000Z"/>
+<entry
+   name="util"
+   kind="dir"/>
+<entry
+   committed-rev="582"
+   name="a.nasm"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2007-10-24T07:12:50.964242Z"
+   checksum="156bab00e7206ac0cc40148e2c05950a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="1663"
+   name="hightile.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2010-06-27T10:08:58.518664Z"
+   checksum="9fb8419a429ccc461f3519375c9f0b98"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+</wc-entries>

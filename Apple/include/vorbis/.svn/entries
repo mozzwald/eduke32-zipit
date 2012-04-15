@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="996"
+   name=""
+   committed-date="2008-08-20T22:58:09.987090Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/Apple/include/vorbis"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="996"
+   name="vorbisenc.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="e7420d26d36b3aec87e599fef5266373"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+<entry
+   committed-rev="996"
+   name="codec.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="8fad6a38abd1856411c7423454ff13d2"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+<entry
+   committed-rev="996"
+   name="vorbisfile.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="b6a83ea0801af395fa2c77bfd6a9efba"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+</wc-entries>

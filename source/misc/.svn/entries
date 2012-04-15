@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1652"
+   name=""
+   committed-date="2010-05-25T10:56:00.874266Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/misc"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   name="gtkstartwin"
+   kind="dir"/>
+<entry
+   committed-rev="1652"
+   name="gameres.rc"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="3748f0932e3fbad158db81f258bcb9c4"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="buildres.rc"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="ee45c241640075507e7247e7443657c5"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+</wc-entries>

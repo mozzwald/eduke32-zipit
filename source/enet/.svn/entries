@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1697"
+   name=""
+   committed-date="2010-08-17T20:00:44.791136Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/enet"
+   last-author="helixhorned"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="1658"
+   name="Makefile.msvc"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="22ba2d47b7413e061ef183c3b6c9f06a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   name="obj_win"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="obj"
+   kind="dir"/>
+<entry
+   name="obj.msc"
+   kind="dir"/>
+<entry
+   committed-rev="1697"
+   name="Makefile"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-08-17T20:00:44.791136Z"
+   checksum="c05ff72fa0ecbc75a921d49f2cb38174"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+</wc-entries>

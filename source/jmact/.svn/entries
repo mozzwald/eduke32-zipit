@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1672"
+   name=""
+   committed-date="2010-07-19T15:14:00.562423Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jmact"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1399"
+   name="keyboard.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2009-06-05T20:09:13.034627Z"
+   checksum="75272a9c64b4efca5dce2596547ccb83"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1346"
+   name="_scrplib.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2009-04-26T05:57:42.769137Z"
+   checksum="19768e9a86a29b39c9f57fb8f962f169"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1625"
+   name="keyboard.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-05-02T23:27:30.351380Z"
+   checksum="49f41d84ff4583f8520b375ea9ffffc9"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1672"
+   name="file_lib.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-07-19T15:14:00.562423Z"
+   checksum="78b985856aa824f62a40db332332b1c0"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1672"
+   name="scriplib.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-07-19T15:14:00.562423Z"
+   checksum="f02e6bb5e48057e221470f37506f5f77"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1346"
+   name="file_lib.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2009-04-26T05:57:42.769137Z"
+   checksum="ad388a5825db45df78cc78cbecedfe33"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1672"
+   name="animlib.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-07-19T15:14:00.562423Z"
+   checksum="0d98006cce555a3ac4940e129206bbe8"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1346"
+   name="scriplib.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2009-04-26T05:57:42.769137Z"
+   checksum="a1ea661c2c6993a25effc45a18d2f5a8"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1672"
+   name="control.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-07-19T15:14:00.562423Z"
+   checksum="1c628497088f06d46e6b7533a2c69dc7"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1618"
+   name="animlib.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-03-17T07:40:13.484287Z"
+   checksum="b1f731d5af47c2a0c4b421305bcb8b5d"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="_control.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="526b298816ab792e3e0dbe91e29c9de7"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1632"
+   name="control.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-05-07T20:45:40.276577Z"
+   checksum="197008529f22403b8bf69e3a67c01440"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1672"
+   name="mathutil.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-07-19T15:14:00.562423Z"
+   checksum="74eccbe8f9420aae0ebd846a94c8b339"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1346"
+   name="mouse.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2009-04-26T05:57:42.769137Z"
+   checksum="f85ceff1bead18b10c228db6dd54c3a2"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1346"
+   name="mathutil.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2009-04-26T05:57:42.769137Z"
+   checksum="400881a3334e9ee13d86d5e5253d1324"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1346"
+   name="mouse.h"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2009-04-26T05:57:42.769137Z"
+   checksum="221b18e609d653d9a6f7b56cdf6ac5eb"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+</wc-entries>

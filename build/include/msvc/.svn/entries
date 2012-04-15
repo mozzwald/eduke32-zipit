@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1642"
+   name=""
+   committed-date="2010-05-16T22:53:08.462328Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build/include/msvc"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="795"
+   name="inttypes.h"
+   text-time="2010-11-08T09:43:41.000000Z"
+   committed-date="2008-06-11T02:33:23.902654Z"
+   checksum="2defcc6ba3b3729495a4178b7a1a23cc"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+<entry
+   committed-rev="1642"
+   name="stdint.h"
+   text-time="2010-11-08T09:43:41.000000Z"
+   committed-date="2010-05-16T22:53:08.462328Z"
+   checksum="42e5594ccee5f8f073e7931141d6e07e"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:41.000000Z"/>
+</wc-entries>

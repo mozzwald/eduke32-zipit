@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1673"
+   name=""
+   committed-date="2010-07-22T20:29:09.550169Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib/src"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1527"
+   name="linklist.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-10-07T06:47:35.350075Z"
+   checksum="926f82e0647483db6723623409ad9863"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="driver_directsound.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="b1d0c3fccd0604d1ce3f00b200e70058"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1481"
+   name="driver_nosound.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-31T11:45:29.516599Z"
+   checksum="b549c4b1b4001926d54bcbb8a9b847de"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1673"
+   name="multivoc.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2010-07-22T20:29:09.550169Z"
+   checksum="9fd528eddf83dbb889bfe94af080d52a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1481"
+   name="driver_sdl.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-31T11:45:29.516599Z"
+   checksum="15b10462371d73cd6ecc910563190bde"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1481"
+   name="driver_directsound.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-31T11:45:29.516599Z"
+   checksum="fd18d995ef287f67c2084b0a9e0be0b7"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="mixst.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-27T05:47:50.667637Z"
+   checksum="936296f21ad2b63ea322305ac76c4e17"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="vorbis.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="963209dc1d4222f80217ee9c03f2a618"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1481"
+   name="driver_nosound.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-31T11:45:29.516599Z"
+   checksum="5b0086996cb477bdb0e7c0a19ce7bce8"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="multivoc.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="c5441f46d60b5f5ade243c3c3d956f47"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="ll_man.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-27T05:47:50.667637Z"
+   checksum="c52708a71568b4ca85a92aeb77eda8a8"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1527"
+   name="pitch.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-10-07T06:47:35.350075Z"
+   checksum="a958e2e15ee224604d94aaee6a7b5d9f"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="fx_man.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="0100dc38356f376c36908d38e8c45d14"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="pitch.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-27T05:47:50.667637Z"
+   checksum="0270c8dfd81233848fa2148eab743ad5"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1481"
+   name="drivers.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-31T11:45:29.516599Z"
+   checksum="bbd7070e3aa957e6f2181c0bf2c00d69"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1481"
+   name="drivers.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-31T11:45:29.516599Z"
+   checksum="da6491007eac0cf4bcf8d866f40b601d"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1472"
+   name="_multivc.h"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2009-07-27T10:46:42.648073Z"
+   checksum="f280b1f03ec78d4e65c7f571b3d16aaf"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1662"
+   name="mix.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2010-06-26T08:51:42.961202Z"
+   checksum="5387789b63881702ae3d5bb6e3d8c1d3"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+<entry
+   committed-rev="1593"
+   name="driver_sdl.c"
+   text-time="2010-11-08T09:43:55.000000Z"
+   committed-date="2010-01-23T22:12:02.766363Z"
+   checksum="6b883adca686bd884203b5102b23b765"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:55.000000Z"/>
+</wc-entries>

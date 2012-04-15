@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="854"
+   name=""
+   committed-date="2008-07-12T14:09:52.917590Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/obj_win"
+   last-author="hnt_ts"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="854"
+   name="keep.me"
+   text-time="2010-11-08T09:43:38.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:38.000000Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1660"
+   name=""
+   committed-date="2010-06-23T04:20:46.933939Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib/third-party/mingw32/lib"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1660"
+   name="libogg.a"
+   text-time="2010-11-08T09:44:03.000000Z"
+   committed-date="2010-06-23T04:20:46.933939Z"
+   checksum="4e3764117244b7307e1e23c7c519e073"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:03.000000Z"/>
+<entry
+   committed-rev="1660"
+   name="libvorbis.a"
+   text-time="2010-11-08T09:44:03.000000Z"
+   committed-date="2010-06-23T04:20:46.933939Z"
+   checksum="614bd3e5fe58edb3c5ad7a8be6776eef"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:03.000000Z"/>
+<entry
+   committed-rev="1660"
+   name="libvorbisfile.a"
+   text-time="2010-11-08T09:44:03.000000Z"
+   committed-date="2010-06-23T04:20:46.933939Z"
+   checksum="2657e0d230d570831790037c15dd2068"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:03.000000Z"/>
+</wc-entries>

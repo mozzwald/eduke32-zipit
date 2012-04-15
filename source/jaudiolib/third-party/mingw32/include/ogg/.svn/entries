@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1660"
+   name=""
+   committed-date="2010-06-23T04:20:46.933939Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib/third-party/mingw32/include/ogg"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1660"
+   name="config_types.h"
+   text-time="2010-11-08T09:44:03.000000Z"
+   committed-date="2010-06-23T04:20:46.933939Z"
+   checksum="583433711e444c3394e925e91d0c0505"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:03.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="ogg.h"
+   text-time="2010-11-08T09:44:03.000000Z"
+   committed-date="2009-07-27T05:47:50.667637Z"
+   checksum="4911ad5f6f528fd35f026af8241c9e15"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:03.000000Z"/>
+<entry
+   committed-rev="1660"
+   name="os_types.h"
+   text-time="2010-11-08T09:44:03.000000Z"
+   committed-date="2010-06-23T04:20:46.933939Z"
+   checksum="5c00031e63763869c6a056945a300099"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:03.000000Z"/>
+</wc-entries>

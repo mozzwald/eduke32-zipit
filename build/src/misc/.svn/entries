@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="854"
+   name=""
+   committed-date="2008-07-12T14:09:52.917590Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build/src/misc"
+   last-author="hnt_ts"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   name="gtkstartwin"
+   kind="dir"/>
+<entry
+   committed-rev="5"
+   name="makesdlkeytrans.c"
+   text-time="2010-11-08T09:43:49.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="7b36e24e0f85840a781a6ce5553b4332"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="5"
+   name="getdxdidf.c"
+   text-time="2010-11-08T09:43:49.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="27e31be90e5b1c83366b4214ab45767b"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="854"
+   name="gameres.rc"
+   text-time="2010-11-08T09:43:49.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="6587e461e921e40ce270d8cff971a46b"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="5"
+   name="enumdisplay.c"
+   text-time="2010-11-08T09:43:49.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="94edf19c66b91f9a2a768505c230e575"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+<entry
+   committed-rev="854"
+   name="buildres.rc"
+   text-time="2010-11-08T09:43:49.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="4e7c49c5601ac2df3623454997269ba9"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:49.000000Z"/>
+</wc-entries>

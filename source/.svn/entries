@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1722"
+   name=""
+   committed-date="2010-10-31T19:54:03.093971Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source"
+   last-author="helixhorned"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1677"
+   name="actors.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="9df118d350c4e95367ac92a6302e0cc3"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="osdcmds.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="4ad842fb687039448ff71adfe6cf375c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="config.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="918c419c30c06d0af603be1d4161caf2"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="config.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="77858daf2d96ede17dbbc4755d578734"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1664"
+   name="startgtk.game.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-07-02T01:26:56.673726Z"
+   checksum="35642b2b53716b2f2cf9a916f6db54d4"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="gamestructures.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="1ff70f332d72751fea931c7527198345"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   name="jmact"
+   kind="dir"/>
+<entry
+   committed-rev="1722"
+   name="m32def.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="526a646047dd78ae401c63b29751d7c2"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="keys.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="db18c89c08563286188ba43fd966d554"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="gamedefs.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="567041ec30bbd12ddd1998588047b6ef"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   name="jaudiolib"
+   kind="dir"/>
+<entry
+   committed-rev="1708"
+   name="sdlmusic.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-09-27T21:52:04.933184Z"
+   checksum="916db0b775d127d02c7226392bc70d52"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1678"
+   name="demo.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:19:28.071777Z"
+   checksum="d50631891fd1db98191f8a8ceffbc6fd"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="osdfuncs.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="6cb793624951863950145c57d0068679"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="m32def.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="a7d33ed1eb57a3c9f387a9cc784d666d"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="854"
+   name="mdump.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="24ffd6e4852ffbf0616b0bc874542aef"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="osdfuncs.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="2eeb7f5622c8aef767b1951161dadbcd"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1693"
+   name="demo.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-12T21:06:51.644103Z"
+   checksum="50e4567c71caa3354b0acda27d891f85"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="function.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="f3a9f2352a03705e71ac2c31f1db6742"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1708"
+   name="global.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-09-27T21:52:04.933184Z"
+   checksum="eff17f1610024ce1044d6673934fec6c"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1645"
+   name="old.diff"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-19T10:02:35.072512Z"
+   checksum="ffa09fd525151e87508a8af6ac66d591"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="global.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="93c0e0a25b538ce458192ed26db19442"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1472"
+   name="standard.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2009-07-27T10:46:42.648073Z"
+   checksum="e76f5e51c69bf6a3239b25de46c72f37"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="m32exec.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="fa595712b73cc4434914d7d2aca4ad08"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="names.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="7e961f8fabd304046efb04176c569f0f"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   name="enet"
+   kind="dir"/>
+<entry
+   name="misc"
+   kind="dir"/>
+<entry
+   committed-rev="1677"
+   name="sounds.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="1eae8191a761468572ba396b78dc17f8"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="_rts.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="5dec60944cc2b963f2b879fe14e4af2a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1672"
+   name="winbits.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-07-19T15:14:00.562423Z"
+   checksum="54e86692cdbc39e2a6d2c8696e078f2b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="sounds.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="37c54dd76b6599af21349e0d234df66b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="startwin.game.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="9e6647ab05a65ec132640ee5dac42e01"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="anim.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="356dd94463420498365b7e702b96f306"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1712"
+   name="gamedef.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-17T14:49:39.642879Z"
+   checksum="9b0027ad1bed7d368d891feab542dc18"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="startwin.game.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="08397e78d86c3777ff58dbe866864d9b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="macros.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="9000a3867237bf90a5401818d5cb8102"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="anim.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="a3a076edb3f2b8c7426e14c0a60e9a3e"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1705"
+   name="m32vars.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-09-01T02:35:36.723121Z"
+   checksum="328c531b17e0ac977ba80ec102377191"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1711"
+   name="gamedef.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-09T22:59:17.043888Z"
+   checksum="d459e46b90fe4487f1d475a9f88c3381"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="grpscan.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="c7398ec3097cb7e5cad0945c988b2a2e"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="sector.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="135be009ff7a403d07e216d8583aa720"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="grpscan.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="aea3afc3dfb03adc8971675e6861e390"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="sector.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="61e069508cc2f3bca34f9921e7dd00bf"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1697"
+   name="sounds_mapster32.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-17T20:00:44.791136Z"
+   checksum="33c53ab50ef91e41c482e22b10083ef1"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:06.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="namesdyn.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="6dad530fdcd2e9563b36056583d3966a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:07.000000Z"/>
+<entry
+   committed-rev="1711"
+   name="gameexec.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-09T22:59:17.043888Z"
+   checksum="b239b0b730d2dcd032a05ad28c48854e"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:07.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="sounds_mapster32.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="3154630ec2d88b0146fe3b00400b8039"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:07.000000Z"/>
+<entry
+   committed-rev="1662"
+   name="midi.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-06-26T08:51:42.961202Z"
+   checksum="c422c9846fa4fef5dcd5d7d0c9f4b9b1"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:07.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="namesdyn.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="fdf759917349d8d9961c015afba1e2b9"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:07.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="gameexec.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="1eb8a23f6d21121ca0f84b3dd831d7be"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:07.000000Z"/>
+<entry
+   committed-rev="1678"
+   name="premap.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:19:28.071777Z"
+   checksum="09c5dddc7c156b5cac5b40f7089a9665"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:08.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="duke3d.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="272a4686f9da0a5f8a1739a00bf6f34a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:07.000000Z"/>
+<entry
+   committed-rev="5"
+   name="GNU.TXT"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="79c2cc4426b9e6f3b9098f02eb47aac1"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:44:08.000000Z"/>
+<entry
+   committed-rev="1472"
+   name="midi.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2009-07-27T10:46:42.648073Z"
+   checksum="1ca9ecfa374822adb34741fe2224b3db"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:08.000000Z"/>
+<entry
+   committed-rev="1693"
+   name="premap.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-12T21:06:51.644103Z"
+   checksum="a88c3d6796465f38e5ff24e62fb6f493"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:08.000000Z"/>
+<entry
+   committed-rev="1690"
+   name="player.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-08T00:06:26.843312Z"
+   checksum="06d1793f0fad233768112e8233107cf1"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:08.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="player.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="ebfc43c4d41b6dad70dcc97f1c41bf1e"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:08.000000Z"/>
+<entry
+   committed-rev="1692"
+   name="m32structures.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-12T13:38:37.297147Z"
+   checksum="89519794fdc61cb5efa397b9bdd76bd9"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:09.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="gamevars.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="ca7fe92fd889e10627b84cbc3d5df433"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:09.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="rts.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="1d9867e01f5b8718ca90cb59c7a664dc"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:09.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="game.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="4319b8532a667438d0889133a428e74a"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:10.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="gamevars.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="fa71caa570e5ccb40c74662f17d9c218"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:10.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="_functio.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="4e5bc227742676dd4db3bbf6c61d857d"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:10.000000Z"/>
+<entry
+   committed-rev="1688"
+   name="rts.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-07T23:14:23.147555Z"
+   checksum="b234622f0454dfcf8643cb2f4816b0d3"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:10.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="astub.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="f695292860dd4f8127cb46b49a830241"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1712"
+   name="game.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-17T14:49:39.642879Z"
+   checksum="08233b004d6d3e553b7c2792910a1d0c"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1662"
+   name="music.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-06-26T08:51:42.961202Z"
+   checksum="ef6521d8e0ce07c2842045127b9da670"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1228"
+   name="mdump.cpp"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2009-02-19T09:39:19.256754Z"
+   checksum="d9daea1c4a3687cd72aa7b43172d4d56"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1697"
+   name="mapster32.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-17T20:00:44.791136Z"
+   checksum="81431e917488f9b2540e72af3911d64d"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="net.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="5f7d2162b13b1cc5352a35934217eabe"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="mpu401.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="cf63d1fbe72a0179ded8575732fa91dc"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1472"
+   name="_midi.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2009-07-27T10:46:42.648073Z"
+   checksum="0622ff6ef07a3961f0bb42f32f2d243e"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:11.000000Z"/>
+<entry
+   committed-rev="1716"
+   name="menus.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-10-21T02:20:40.255870Z"
+   checksum="56c524341cf7af6105d31cef42d5e492"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:44:12.000000Z"/>
+<entry
+   committed-rev="1707"
+   name="savegame.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-09-14T18:19:38.236898Z"
+   checksum="cfe4bcb949479142b1ab0cfb922c7487"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="net.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="b0cacbe604e7676f31a48a92840845db"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:12.000000Z"/>
+<entry
+   committed-rev="1472"
+   name="mpu401.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2009-07-27T10:46:42.648073Z"
+   checksum="a3c8797e9243159cf2e3737737834bea"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:12.000000Z"/>
+<entry
+   committed-rev="1708"
+   name="actors.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-09-27T21:52:04.933184Z"
+   checksum="6ee437c438aa8b5405d9a7909064a6b5"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:14.000000Z"/>
+<entry
+   committed-rev="1652"
+   name="soundefs.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="c2c1b5afa2dab86b8bdf3240359fbad3"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:14.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="osdcmds.c"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="3a01cb8b80ee8ba20c9491e3619b0cbd"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="menus.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-08-02T08:13:51.061606Z"
+   checksum="b86e2bdb385db4c310e6244ba476ffc5"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+<entry
+   committed-rev="1707"
+   name="savegame.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2010-09-14T18:19:38.236898Z"
+   checksum="f62fc535ef889e02ec882b1c5c751a0d"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+</wc-entries>

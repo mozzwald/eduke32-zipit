@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1652"
+   name=""
+   committed-date="2010-05-25T10:56:00.874266Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/rsrc"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   prop-time="2010-11-08T09:44:50.000000Z"
+   revision="1724"/>
+<entry
+   committed-rev="1525"
+   name="build_icon.ico"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2009-10-04T02:58:15.017562Z"
+   checksum="6388810e5ba592ae91750efbb972da4c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:48.000000Z"/>
+<entry
+   committed-rev="561"
+   name="game_icon.c"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2007-08-26T10:35:52.871720Z"
+   checksum="73875df879101a8ae1fc2882d16b6b15"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:49.000000Z"/>
+<entry
+   committed-rev="854"
+   name="manifest.build.xml"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="99c8131d88672bdb0a22b7877e060788"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:44:49.000000Z"/>
+<entry
+   committed-rev="5"
+   name="build_icon.bmp"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="55419b50b0e75fb5858848ef418426e3"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:44:49.000000Z"/>
+<entry
+   committed-rev="1351"
+   name="game.bmp"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2009-04-29T00:51:03.590072Z"
+   checksum="9d5cbe061b09b82847d04d8565d89337"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:49.000000Z"/>
+<entry
+   committed-rev="561"
+   name="build_icon.c"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2007-08-26T10:35:52.871720Z"
+   checksum="73875df879101a8ae1fc2882d16b6b15"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:49.000000Z"/>
+<entry
+   committed-rev="1525"
+   name="game_icon.ico"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2009-10-04T02:58:15.017562Z"
+   checksum="6388810e5ba592ae91750efbb972da4c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:49.000000Z"/>
+<entry
+   committed-rev="1351"
+   name="build.bmp"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2009-04-29T00:51:03.590072Z"
+   checksum="468b61856a313286b472ec4cc3a2f6be"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:50.000000Z"/>
+<entry
+   committed-rev="854"
+   name="manifest.game.xml"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="855b7ab48739a8aa16bfd2cd3aefa04f"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:44:50.000000Z"/>
+</wc-entries>

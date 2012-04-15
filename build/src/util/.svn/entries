@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1490"
+   name=""
+   committed-date="2009-08-28T23:08:00.288595Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build/src/util"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="584"
+   name="cacheinfo.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2007-12-12T17:42:14.765459Z"
+   checksum="e7eee69c938dee75a64f372be87d5005"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="1490"
+   name="generateicon.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2009-08-28T23:08:00.288595Z"
+   checksum="e35c157d4067171977b37ae5e0bde35f"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="854"
+   name="transpal.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="aa16a4c5d2c2684e2c708e5df8be78b4"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="854"
+   name="vgafont.cpp"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="fb69bc0b88906406ff3473f7083d0382"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="584"
+   name="wad2art.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2007-12-12T17:42:14.765459Z"
+   checksum="4133c012485cc4c0c27f24b54c07f41f"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="584"
+   name="kextract.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2007-12-12T17:42:14.765459Z"
+   checksum="ee6b900854907a501ea43360e9b1a83b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="854"
+   name="kgroup.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="e44cb58ae91e2d118de31e87cef012a4"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="854"
+   name="kmd2tool.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="cb85f644af8f335da28431a688783e74"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="584"
+   name="wad2map.c"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2007-12-12T17:42:14.765459Z"
+   checksum="71c85c17ec1595172ff297e94c549204"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="854"
+   name="bin2c.cpp"
+   text-time="2010-11-08T09:43:51.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="045b680b93cad972a32b734b24226ca2"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+</wc-entries>

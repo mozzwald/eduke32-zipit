@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="854"
+   name=""
+   committed-date="2008-07-12T14:09:52.917590Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build/doc"
+   last-author="hnt_ts"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="854"
+   name="build2.txt"
+   text-time="2010-11-08T09:43:44.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="efc8a14fe9a838c2d59a0500c6d9f87f"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="854"
+   name="buildinf.txt"
+   text-time="2010-11-08T09:43:44.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="eadf1b73a775211dd80ca904e0c156a3"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   committed-rev="854"
+   name="build.txt"
+   text-time="2010-11-08T09:43:44.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="cea0ae6e4c5daf353a4272ea479bc2af"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:43:44.000000Z"/>
+</wc-entries>

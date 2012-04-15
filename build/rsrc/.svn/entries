@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="661"
+   name=""
+   committed-date="2008-03-26T04:11:26.709664Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build/rsrc"
+   last-author="plagman"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="661"
+   name="game_banner.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2008-03-26T04:11:26.709664Z"
+   checksum="558e4de6a00dc5a9a7a8cf8c3b25b6bf"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="5"
+   name="build_icon.ico"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="9c6ca78e9ec64c52c41dafccddf1366d"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="5"
+   name="game_icon.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="8d083d74a61eefb221c1c9cc70f38bbd"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="5"
+   name="build_icon.bmp"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="4fb90b9407a5bdeae6ceba77003815e1"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:51.000000Z"/>
+<entry
+   committed-rev="5"
+   name="game.bmp"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="c0b9ae072e4bd3fb0326a2976ca1a789"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:52.000000Z"/>
+<entry
+   committed-rev="5"
+   name="build_icon.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="14d452b4b86607684d4e709959460531"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:52.000000Z"/>
+<entry
+   committed-rev="5"
+   name="game.xcf"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="b77729092b46278460ea1419f5ed7bef"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:52.000000Z"/>
+<entry
+   committed-rev="5"
+   name="game_icon.ico"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="5970c4943bbcb57354252ca9e7a8d98c"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:52.000000Z"/>
+<entry
+   committed-rev="5"
+   name="build.bmp"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="16c58b230dd6436cf652be4d118cb183"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:52.000000Z"/>
+<entry
+   committed-rev="661"
+   name="editor_banner.c"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2008-03-26T04:11:26.709664Z"
+   checksum="a36dc22cddaf34ce700907f0889f632b"
+   last-author="plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:52.000000Z"/>
+<entry
+   committed-rev="5"
+   name="build.xcf"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="9a55d472f2a3073b1ce303ab5b1fba53"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+<entry
+   committed-rev="5"
+   name="game_icon.bmp"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="c4080f92203ef201d22993684a2de379"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+</wc-entries>

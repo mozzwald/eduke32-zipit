@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1697"
+   name=""
+   committed-date="2010-08-17T20:00:44.791136Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib"
+   last-author="helixhorned"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="1479"
+   name="Makefile.msvc"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2009-07-29T21:56:56.828915Z"
+   checksum="99263b294da198c881a75aa7ef2338e7"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="third-party"
+   kind="dir"/>
+<entry
+   name="obj.msc"
+   kind="dir"/>
+<entry
+   committed-rev="1697"
+   name="Makefile"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2010-08-17T20:00:44.791136Z"
+   checksum="af41b8c61b190ac7326a9c79806b8fdf"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+</wc-entries>

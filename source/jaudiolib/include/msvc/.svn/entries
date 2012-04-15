@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1477"
+   name=""
+   committed-date="2009-07-29T10:33:56.439570Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib/include/msvc"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1477"
+   name="inttypes.h"
+   text-time="2010-11-08T09:43:54.000000Z"
+   committed-date="2009-07-29T10:33:56.439570Z"
+   checksum="2defcc6ba3b3729495a4178b7a1a23cc"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1477"
+   name="stdint.h"
+   text-time="2010-11-08T09:43:54.000000Z"
+   committed-date="2009-07-29T10:33:56.439570Z"
+   checksum="29f74bbf290bab8a752a9fbed275fd0f"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+</wc-entries>

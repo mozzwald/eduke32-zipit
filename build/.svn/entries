@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1724"
+   name=""
+   committed-date="2010-11-08T04:56:10.981182Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/build"
+   last-author="plagman"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   prop-time="2010-11-08T09:43:53.000000Z"
+   revision="1724"/>
+<entry
+   committed-rev="312"
+   name="MakeDistributions"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-10-15T18:59:45.258056Z"
+   checksum="02f2ad3a0f7c0343e74d25ea01fbdeac"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:40.000000Z"/>
+<entry
+   name="obj.gnu"
+   kind="dir"/>
+<entry
+   committed-rev="1693"
+   name="Makefile.shared"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-08-12T21:06:51.644103Z"
+   checksum="d83d26bf4bfccaa69f3157b61cf37ad0"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:43:40.000000Z"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="1652"
+   name="Makefile.msvc"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-05-25T10:56:00.874266Z"
+   checksum="06ec6a591d19300ebb1a23190013dbf5"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   committed-rev="5"
+   name="buildlic.txt"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="68b498942a59b13f60086049f5711ab7"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:43.000000Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="1631"
+   name="Makefile.deps"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-05-05T07:31:38.223750Z"
+   checksum="e3dcfa719d8a2c4da3c2b37d0bec7bfe"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:44.000000Z"/>
+<entry
+   name="rsrc"
+   kind="dir"/>
+<entry
+   name="obj.msc"
+   kind="dir"/>
+<entry
+   committed-rev="1715"
+   name="Makefile"
+   text-time="2010-11-08T09:43:53.000000Z"
+   committed-date="2010-10-19T05:42:21.582150Z"
+   checksum="48a8b4039b7feec0f66ccc903f992d30"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:43:53.000000Z"/>
+</wc-entries>

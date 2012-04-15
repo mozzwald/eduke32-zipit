@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1662"
+   name=""
+   committed-date="2010-06-26T08:51:42.961202Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib/include"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1662"
+   name="music.h"
+   text-time="2010-11-08T09:43:54.000000Z"
+   committed-date="2010-06-26T08:51:42.961202Z"
+   checksum="038751c6da46cd9a6bbceb7210045de1"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   committed-rev="1481"
+   name="sndcards.h"
+   text-time="2010-11-08T09:43:54.000000Z"
+   committed-date="2009-07-31T11:45:29.516599Z"
+   checksum="3901b956f21a9997e5354e6a29189201"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+<entry
+   name="msvc"
+   kind="dir"/>
+<entry
+   committed-rev="1658"
+   name="fx_man.h"
+   text-time="2010-11-08T09:43:54.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="c374eea5fdeb7039f767af7882a0c735"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:43:54.000000Z"/>
+</wc-entries>

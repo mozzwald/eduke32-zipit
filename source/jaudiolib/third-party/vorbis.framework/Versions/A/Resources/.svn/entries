@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1471"
+   name=""
+   committed-date="2009-07-27T05:47:50.667637Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/jaudiolib/third-party/vorbis.framework/Versions/A/Resources"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1471"
+   name="Info.plist"
+   text-time="2010-11-08T09:44:03.000000Z"
+   committed-date="2009-07-27T05:47:50.667637Z"
+   checksum="8c56a4d5787ddd4abeddaa833ba75ebd"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:03.000000Z"/>
+<entry
+   name="English.lproj"
+   kind="dir"/>
+</wc-entries>

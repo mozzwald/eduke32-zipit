@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1723"
+   name=""
+   committed-date="2010-10-31T19:59:13.605304Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/samples"
+   last-author="helixhorned"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1653"
+   name="enhance.con.sample"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-05-25T11:00:42.139696Z"
+   checksum="d7584d95929473b17d9cac0156306811"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:47.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="a.m32"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="cf3627ec736e9ed9ad93ccd128d4a9c3"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:47.000000Z"/>
+<entry
+   committed-rev="1691"
+   name="tests.m32"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-08-11T22:37:45.550034Z"
+   checksum="0e776d51bdaebea846d5f8477ac261fc"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:47.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="_clipshape0.map"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="0348cded7f88cdd939ffcfb323abc012"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:47.000000Z"/>
+<entry
+   committed-rev="1653"
+   name="duke3d.def.sample"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-05-25T11:00:42.139696Z"
+   checksum="e1fd14ba7999a3b8f1035df72dae9d0c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:47.000000Z"/>
+<entry
+   committed-rev="1722"
+   name="spriteclip.txt"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-10-31T19:54:03.093971Z"
+   checksum="263d8f3d9497ea8e92433037e56fe041"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:47.000000Z"/>
+<entry
+   committed-rev="1710"
+   name="m32script_ex.map"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-09-30T23:05:40.711767Z"
+   checksum="b4a9b1cde772e874c70811df223baa22"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:48.000000Z"/>
+<entry
+   committed-rev="1653"
+   name="ror.map"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-05-25T11:00:42.139696Z"
+   checksum="49886d28602427c96dbad50287f98da6"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:48.000000Z"/>
+<entry
+   committed-rev="1695"
+   name="tiles.cfg"
+   text-time="2010-11-08T09:44:48.000000Z"
+   committed-date="2010-08-14T21:32:28.125416Z"
+   checksum="f89bf22e756c25d4e6a18ad425650607"
+   last-author="helixhorned"
+   kind="file"
+   prop-time="2010-11-08T09:44:48.000000Z"/>
+</wc-entries>

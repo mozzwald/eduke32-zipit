@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="854"
+   name=""
+   committed-date="2008-07-12T14:09:52.917590Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/misc/gtkstartwin"
+   last-author="hnt_ts"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   name="pixmaps"
+   kind="dir"/>
+<entry
+   committed-rev="854"
+   name="gtkstartwin.glade"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="cba6ee42e0a03f7881f7084b08df3ae5"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="854"
+   name="gtkstartwin.gladep"
+   text-time="2010-11-08T09:44:04.000000Z"
+   committed-date="2008-07-12T14:09:52.917590Z"
+   checksum="549859850472f904ad440c29472e95d3"
+   last-author="hnt_ts"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+</wc-entries>

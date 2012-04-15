@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2006-04-13T20:47:06.620941Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/obj"
+   last-author="Plagman"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="5"
+   name="keep.me"
+   text-time="2010-11-08T09:44:50.000000Z"
+   committed-date="2006-04-13T20:47:06.620941Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="Plagman"
+   kind="file"
+   prop-time="2010-11-08T09:44:50.000000Z"/>
+</wc-entries>

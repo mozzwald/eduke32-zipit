@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1659"
+   name=""
+   committed-date="2010-06-22T21:59:28.795806Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/source/enet/src"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="1658"
+   name="callbacks.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="2136ad825632f0d1330d5b2cb9b38769"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:04.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="protocol.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="6ff5224ed8f9d71ff4fa8f1ce8aeff3c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1552"
+   name="win32.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2009-12-05T09:22:43.062202Z"
+   checksum="60eebc13522c1ac9b29be683ee58e5b1"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="unix.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="3466daa9234b5ec4d768aec01532c46e"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1640"
+   name="packet.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-05-15T09:07:49.798891Z"
+   checksum="2946e815f31ec5da4250cc05a0b2849a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1659"
+   name="compress.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-06-22T21:59:28.795806Z"
+   checksum="5548dc03100873cf6de577592807bb07"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1640"
+   name="list.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-05-15T09:07:49.798891Z"
+   checksum="2f301b02ad282a060a6c8c4dfd044407"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="peer.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="17b33e64afd7801b961e310d61fcf961"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="host.c"
+   text-time="2010-11-08T09:44:05.000000Z"
+   committed-date="2010-06-22T21:50:01.191101Z"
+   checksum="250f766104e12a5cf489c0618360205a"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:05.000000Z"/>
+</wc-entries>

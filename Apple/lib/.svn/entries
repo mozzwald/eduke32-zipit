@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="996"
+   name=""
+   committed-date="2008-08-20T22:58:09.987090Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/Apple/lib"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="996"
+   name="libvorbisenc.a"
+   text-time="2010-11-08T09:44:46.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="f74e603f28670b862fa28d152065051b"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:35.000000Z"/>
+<entry
+   committed-rev="996"
+   name="libogg.a"
+   text-time="2010-11-08T09:44:46.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="4877c0065a58e69527ea7886d6eac04c"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:36.000000Z"/>
+<entry
+   committed-rev="996"
+   name="libvorbis.a"
+   text-time="2010-11-08T09:44:46.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="cc14a042d50c50d3262afba45b4aa1e8"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:45.000000Z"/>
+<entry
+   committed-rev="996"
+   name="libvorbisfile.a"
+   text-time="2010-11-08T09:44:46.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="4e0905134adb7380f08dd0b12172fc03"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:46.000000Z"/>
+<entry
+   committed-rev="996"
+   name="libSDLmain.a"
+   text-time="2010-11-08T09:44:46.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="ed0b5b7ed6b05dbd4c4c16845842a8ed"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:46.000000Z"/>
+</wc-entries>

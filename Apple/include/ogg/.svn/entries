@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="996"
+   name=""
+   committed-date="2008-08-20T22:58:09.987090Z"
+   url="https://eduke32.svn.sourceforge.net/svnroot/eduke32/polymer/eduke32/Apple/include/ogg"
+   last-author="terminx"
+   kind="dir"
+   uuid="1a8010ca-5511-0410-912e-c29ae57300e0"
+   repos="https://eduke32.svn.sourceforge.net/svnroot/eduke32"
+   revision="1724"/>
+<entry
+   committed-rev="996"
+   name="config_types.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="e2c1201b297f9fa3ab275fda8553edb8"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+<entry
+   committed-rev="996"
+   name="ogg.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="09121783c1888eb6af45597a213e1626"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+<entry
+   committed-rev="996"
+   name="os_types.h"
+   text-time="2010-11-08T09:44:15.000000Z"
+   committed-date="2008-08-20T22:58:09.987090Z"
+   checksum="3dbe77ca8556e40d9ad8bd950f7e7245"
+   last-author="terminx"
+   kind="file"
+   prop-time="2010-11-08T09:44:15.000000Z"/>
+</wc-entries>
