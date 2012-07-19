@@ -9,7 +9,7 @@
 #   
 
 # Use colored output
-PRETTY_OUTPUT = 1
+PRETTY_OUTPUT = 0
 
 # Engine options - these may be overridden by game makefiles
 #  SUPERBUILD     - enables voxels
@@ -19,12 +19,12 @@ PRETTY_OUTPUT = 1
 #  LINKED_GTK     - enables compile-time linkage to GTK
 #
 
-SUPERBUILD ?= 1
+SUPERBUILD = 1
 POLYMOST ?= 0		
-POLYMER ?= 0
-USE_OPENGL ?= 0
-NOASM ?= 1
-LINKED_GTK ?= 0
+POLYMER = 0
+USE_OPENGL = 0
+NOASM = 1
+LINKED_GTK = 0
 BUILD32_ON_64 ?= 0
 NEDMALLOC ?= 0
 
@@ -37,11 +37,11 @@ endif
 #  EFENCE  - 1 = compile with Electric Fence for malloc() debugging
 #  OPTLEVEL	- 0..3 = GCC optimization strategy 
 #
-RELEASE?=1
+RELEASE=0
 DEBUGANYWAY?=0
 KRANDDEBUG?=0
 EFENCE?=0
-OPTLEVEL?=3
+OPTLEVEL=2
 PROFILER?=0
 
 ifneq (0,$(KRANDDEBUG))
@@ -53,8 +53,8 @@ endif
 
 # SDK locations for Windows - adjust to match your setup
 #
-DXROOT=c:/sdks/directx/dx61
-FMODROOTWIN=c:/sdks/fmodapi374win/api
+#DXROOT=c:/sdks/directx/dx61
+#FMODROOTWIN=c:/sdks/fmodapi374win/api
 
 # Build locations - OBJ gets overridden to the game-specific objects dir
 #
@@ -94,18 +94,18 @@ ifneq (0,$(DEBUGANYWAY))
     debug+=-ggdb
 endif
 
-CC=mipsel-linux-gcc
-CXX=mipsel-linux-gcc
-AS=nasm
-RC=mipsel-linux-windres
-AR=mipsel-linux-ar
-RANLIB=mipsel-linux-ranlib
-ARCH=-march=mips32 -fstrength-reduce -fthread-jumps -fexpensive-optimizations -fomit-frame-pointer -frename-registers -pipe -G 0 -ffast-math -msoft-float
+CC=$(TARGET_CC)
+CXX=$(TARGET_CXX)
+AS=arm-openwrt-linux-uclibcgnueabi-as
+#RC=mipsel-linux-windres
+STRIP=arm-openwrt-linux-uclibcgnueabi-strip
+RANLIB=arm-openwrt-linux-uclibcgnueabi-ranlib
+#ARCH=-march=mips32 -fstrength-reduce -fthread-jumps -fexpensive-optimizations -fomit-frame-pointer -frename-registers -pipe -G 0 -ffast-math -msoft-float
 
 OURCFLAGS=$(debug) -W -Wall -Wimplicit \
 	-Wno-char-subscripts -funsigned-char -fno-strict-aliasing -DNO_GCC_BUILTINS \
 	-DKSFORBUILD -I$(INC) -D_FORTIFY_SOURCE=2 \
-    $(F_JUMP_TABLES) $(ARCH)
+    $(F_JUMP_TABLES)
 
 OURCXXFLAGS=-fno-exceptions -fno-rtti
 ASFLAGS=-s #-g
@@ -165,6 +165,8 @@ EDITOROBJS=$(OBJ)/build.$o \
 
 ifeq ($(PLATFORM),LINUX)
     ASFLAGS+= -f elf
+	OURCFLAGS	+= -I$(STAGING_DIR)/usr/include -I$(STAGING_DIR)/usr/include/SDL
+	LIBS		+= -L$(STAGING_DIR)/usr/lib -L$(STAGING_DIR)/usr/lib/SDL -lSDL -lSDL_mixer -lvorbisfile -lvorbis -logg
 endif
 ifeq ($(PLATFORM),DARWIN)
     ENGINEOBJS  += $(OBJ)/StartupWinController.editor.$o \
@@ -263,22 +265,22 @@ include Makefile.deps
 # RULES
 $(OBJ)/%.$o: $(SRC)/%.nasm
 	$(COMPILE_STATUS)
-	if $(AS) $(ASFLAGS) $< -o $@; then $(COMPILE_OK); else $(COMPILE_FAILED); fi
+	if $(AS) $(ASFLAGS) $< -o $@ $(LIBS); then $(COMPILE_OK); else $(COMPILE_FAILED); fi
 
 $(OBJ)/%.$o: $(SRC)/%.c
 	$(COMPILE_STATUS)
-	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@; then $(COMPILE_OK); else $(COMPILE_FAILED); fi
+	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@ $(LIBS); then $(COMPILE_OK); else $(COMPILE_FAILED); fi
 
 $(OBJ)/%.$o: $(SRC)/%.m
 	$(COMPILE_STATUS)
-	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@; then $(COMPILE_OK); else $(COMPILE_FAILED); fi
+	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@ $(LIBS); then $(COMPILE_OK); else $(COMPILE_FAILED); fi
 
 $(OBJ)/%.$o: $(SRC)/%.cpp
 	$(COMPILE_STATUS)
-	if $(CXX) $(CXXFLAGS) $(OURCXXFLAGS) $(OURCFLAGS) -c $< -o $@; then $(COMPILE_OK); else $(COMPILE_FAILED); fi
+	if $(CXX) $(CXXFLAGS) $(OURCXXFLAGS) $(OURCFLAGS) -c $< -o $@ $(LIBS); then $(COMPILE_OK); else $(COMPILE_FAILED); fi
 
 $(OBJ)/%.$o: $(SRC)/%.cxx
-	$(CXX) $(CXXFLAGS) $(OURCXXFLAGS) $(OURCFLAGS) -c $< -o $@
+	$(CXX) $(CXXFLAGS) $(OURCXXFLAGS) $(OURCFLAGS) -c $< -o $@ $(LIBS)
 
 $(OBJ)/%.$o: $(SRC)/misc/%.rc
 	$(COMPILE_STATUS)
@@ -286,11 +288,11 @@ $(OBJ)/%.$o: $(SRC)/misc/%.rc
 
 $(OBJ)/%.$o: $(SRC)/util/%.c
 	$(COMPILE_STATUS)
-	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@; then $(COMPILE_OK); else $(COMPILE_FAILED); fi
+	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@ $(LIBS); then $(COMPILE_OK); else $(COMPILE_FAILED); fi
 
 $(OBJ)/%.$o: $(RSRC)/%.c
 	$(COMPILE_STATUS)
-	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@; then $(COMPILE_OK); else $(COMPILE_FAILED); fi
+	if $(CC) $(CFLAGS) $(OURCFLAGS) -c $< -o $@ $(LIBS); then $(COMPILE_OK); else $(COMPILE_FAILED); fi
 
 $(OBJ)/editor_banner.$o: $(RSRC)/editor_banner.c
 	echo "#include <gdk-pixbuf/gdk-pixdata.h>" > $@

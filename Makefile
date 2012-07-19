@@ -3,12 +3,12 @@
 #
 
 # DEFINES
-
+PLATFORM = LINUX
 # Use colored output
-PRETTY_OUTPUT = 1
+PRETTY_OUTPUT = 0
 
 # SDK locations - adjust to match your setup
-DXROOT=../sdk/dx
+#DXROOT=../sdk/dx
 #DXROOT=c:/sdks/directx/dx8
 
 # Engine options
@@ -22,11 +22,11 @@ BUILD32_ON_64 = 0
 NEDMALLOC = 0
 
 # Debugging/Build options
-RELEASE?=1
-DEBUGANYWAY?=0
+RELEASE=0
+DEBUGANYWAY?=1
 KRANDDEBUG?=0
-NOSOUND?=0
-OPTLEVEL?=3
+NOSOUND?=1
+OPTLEVEL=2
 PROFILER?=0
 
 ifneq (0,$(KRANDDEBUG))
@@ -71,17 +71,20 @@ JAUDIOLIB=libjfaudiolib.a
 ENETDIR=$(SRC)/enet
 ENETLIB=libenet.a
 
-CC=mipsel-linux-gcc
-CXX=mipsel-linux-g++
-AS=nasm
-RC=mipsel-linux-windres
-STRIP=mipsel-linux-strip
-ARCH=-march=mips32 -fstrength-reduce -fthread-jumps -fexpensive-optimizations -fomit-frame-pointer -frename-registers -pipe -G 0 -ffast-math -msoft-float
+CC=$(TARGET_CC)
+CXX=$(TARGET_CXX)
+AS=arm-openwrt-linux-uclibcgnueabi-as
+#RC=mipsel-linux-windres
+STRIP=arm-openwrt-linux-uclibcgnueabi-strip
+#ARCH=-march=mips32 -fstrength-reduce -fthread-jumps -fexpensive-optimizations -fomit-frame-pointer -frename-registers -pipe -G 0 -ffast-math -msoft-float
+
+LIBS += -L$(STAGING_DIR)/usr/lib -L$(STAGING_DIR)/usr/lib/SDL -lSDL -lSDL_mixer -lvorbisfile -lvorbis -logg
 
 OURCFLAGS=$(debug) -W -Wall -Wimplicit \
     -funsigned-char -fno-strict-aliasing -DNO_GCC_BUILTINS \
     -I$(INC) -I$(EINC) -I$(SRC)/jmact -I$(JAUDIOLIBDIR)/include -I$(ENETDIR)/include -D_FORTIFY_SOURCE=2 \
-    $(F_JUMP_TABLES) $(ARCH)
+	-I$(STAGING_DIR)/usr/include -I$(STAGING_DIR)/usr/include/SDL \
+    $(F_JUMP_TABLES)
 
 OURCXXFLAGS=-fno-exceptions -fno-rtti
 
@@ -220,12 +223,13 @@ endif
 
 # TARGETS
 
-all: notice eduke32$(EXESUFFIX) mapster32$(EXESUFFIX)
+all: notice eduke32$(EXESUFFIX) 
+#mapster32$(EXESUFFIX)
 
 all:
 	$(BUILD_FINISHED)
 	@ls -l eduke32$(EXESUFFIX)
-	@ls -l mapster32$(EXESUFFIX)
+#	@ls -l mapster32$(EXESUFFIX)
 
 notice:
 	$(BUILD_STARTED)
@@ -239,14 +243,14 @@ ifeq (1,$(RELEASE))
   endif
 endif
 
-mapster32$(EXESUFFIX): $(EDITOROBJS) $(EOBJ)/$(EDITORLIB) $(EOBJ)/$(ENGINELIB) $(JAUDIOLIBDIR)/$(JAUDIOLIB) $(ENETDIR)/$(ENETLIB)
-	$(LINK_STATUS)
-	if $(CC) $(CFLAGS) $(OURCFLAGS) -o $@ $^ $(LIBS) $(STDCPPLIB) $(MISCLINKOPTS); then $(LINK_OK); else $(LINK_FAILED); fi
-ifeq (1,$(RELEASE))	
-  ifeq (0,$(DEBUGANYWAY))
-	$(STRIP) mapster32$(EXESUFFIX)
-  endif
-endif
+#mapster32$(EXESUFFIX): $(EDITOROBJS) $(EOBJ)/$(EDITORLIB) $(EOBJ)/$(ENGINELIB) $(JAUDIOLIBDIR)/$(JAUDIOLIB) $(ENETDIR)/$(ENETLIB)
+#	$(LINK_STATUS)
+#	if $(CC) $(CFLAGS) $(OURCFLAGS) -o $@ $^ $(LIBS) $(STDCPPLIB) $(MISCLINKOPTS); then $(LINK_OK); else $(LINK_FAILED); fi
+#ifeq (1,$(RELEASE))	
+#  ifeq (0,$(DEBUGANYWAY))
+#	$(STRIP) mapster32$(EXESUFFIX)
+#  endif
+#endif
 
 include Makefile.deps
 
